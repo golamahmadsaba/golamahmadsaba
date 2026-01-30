@@ -15,17 +15,18 @@ Here are some ideas to get you started:
 # Hi, I'm Golam Ahmad Saba 👋
 
 🎓 Electrical & Electronic Engineering (EEE) Student at North South University  
-💻 Tech Learner | Linux Enthusiast | Future Engineer & Entrepreneur  
+💻 Tech Learner | Linux Enthusiast  
 📍 Dhaka, Bangladesh  
 
 ---
 
 ## 🧠 About Me
 
-I am an Electrical and Electronic Engineering student with a deep interest in technology, programming, and entrepreneurship.  
+I am an Electrical and Electronic Engineering student with a deep interest in technology, programming, and entrepreneurship. 
+
 I believe in **discipline, consistency, and purposeful learning**.
 
-Currently, I am improving my skills in **programming, Linux, and problem-solving**, with a long-term goal of becoming a **skilled engineer and impactful entrepreneur** who builds solutions that help people and create value in society.
+Currently, I am improving my skills in **programming, Linux, and problem-solving**, with a long-term goal of becoming a **skilled engineer** who builds solutions that help people and create value in society.
 
 ---
 
@@ -74,7 +75,6 @@ Currently, I am improving my skills in **programming, Linux, and problem-solving
 To become:
 
 - A **highly skilled engineer**
-- A **self-reliant entrepreneur**
 - A **problem solver who builds meaningful solutions**
 - A person who helps others through **technology and leadership**
 
@@ -82,9 +82,9 @@ To become:
 
 ## 📫 Contact & Presence
 
-- GitHub: https://github.com/yourusername  
-- LinkedIn: (Add when ready)  
-- Email: (Optional later)
+- GitHub: https://github.com/golamahmadsaba  
+- LinkedIn: https://www.linkedin.com/in/golamahmadsaba
+- Email: golamahmadsaba@gmail.com
 
 ---
 
