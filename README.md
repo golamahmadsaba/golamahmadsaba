@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 🧠 About Me
 
-I am an Electrical and Electronic Engineering student with a deep interest in technology, programming, and entrepreneurship. 
+I am an Electrical and Electronic Engineering student with a deep interest in technology and programming. 
 
 I believe in **discipline, consistency, and purposeful learning**.
 
@@ -49,11 +49,10 @@ Currently, I am improving my skills in **programming, Linux, and problem-solving
 
 **Systems & Tools:**  
 - Linux (Arch Linux)  
-- Git & GitHub  
-- Bash / Terminal  
+
 
 **Engineering:**  
-- Basic electronics  
+-  electronics  
 - Circuit analysis  
 - Embedded system concepts (learning)
 
@@ -92,7 +91,6 @@ To become:
 
 > Discipline is stronger than motivation.  
 > Consistency is stronger than talent.  
-> Purpose is stronger than fear.
 
 ---
 
